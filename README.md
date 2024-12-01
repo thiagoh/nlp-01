@@ -3,8 +3,6 @@
 https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
 
 
-![](https://drive.google.com/file/d/1tdX052L_amhmTkdn2w_ynLWRuqyLeDdI/view?usp=sharing)
-
 ----
 
-![](https://github.com/user-attachments/assets/f7bdfdab-130e-44cb-9051-ebf31aa710a0)
+[![Watch the video](https://github.com/user-attachments/assets/9bf8e8d6-f14d-4f2a-bcdf-380dafe7c1f6)](https://youtu.be/4Dbclee1vxs)
